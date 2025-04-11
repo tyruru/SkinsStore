@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 014ee7a76c6b483c9836adcb0221321a, type: 3}
+  m_Name: ShopContent
+  m_EditorClassIdentifier: 
+  _trackSkinItems:
+  - {fileID: 11400000, guid: 0215858ebf4b245dcac2b29037e558a0, type: 2}
+  - {fileID: 11400000, guid: d0847c8afcb2f40b9ac647d248b85bf4, type: 2}
+  _cargoSkinItems:
+  - {fileID: 11400000, guid: 92c561a6378c54f75bd9862025af8d24, type: 2}
+  - {fileID: 11400000, guid: ef34eb6c5a1584ad99e920e7b134dea9, type: 2}
+  - {fileID: 11400000, guid: 395d192e70daf4a2f939f7fd78168b76, type: 2}
+  - {fileID: 11400000, guid: 1db6387604e784f2286498b3c0d03f61, type: 2}

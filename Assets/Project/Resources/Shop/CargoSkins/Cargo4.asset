@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06c8ac25468a490d81eeb29f2c30ab4a, type: 3}
+  m_Name: Cargo4
+  m_EditorClassIdentifier: 
+  <Model>k__BackingField: {fileID: 154144, guid: 991425e4454654da082b08ccab8dbfe7, type: 3}
+  <Image>k__BackingField: {fileID: 21300000, guid: b53032e082da047209e1b2baa047cad8, type: 3}
+  <Price>k__BackingField: 10000
+  <SkinType>k__BackingField: 3

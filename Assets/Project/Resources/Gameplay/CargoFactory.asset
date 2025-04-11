@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 211ea8704c7343d8947eae2d3cd83bfb, type: 3}
+  m_Name: CargoFactory
+  m_EditorClassIdentifier: 
+  _cargo1: {fileID: 5578624736068688325, guid: 61cd1fff91bf34f1b80ed4126d44eea4, type: 3}
+  _cargo2: {fileID: -1351771659315481803, guid: 21bce772f7d274f6c8f431edf436d69b, type: 3}
+  _cargo3: {fileID: -1139123676306472089, guid: 5ff3bcadc621641baaa814f3281bd715, type: 3}
+  _cargo4: {fileID: 3100057922145179582, guid: 6eacdad601adc441eae27243f439509e, type: 3}
